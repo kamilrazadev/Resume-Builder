@@ -1,8 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Mooli:regular);
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@import url(https://fonts.googleapis.com/css?family=Mooli:regular);
 
 body {
   width: 100vw;
